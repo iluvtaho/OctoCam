@@ -14,12 +14,16 @@
 
 ## Contents
 
-1. [2026-10-05 — Work session](#2026-10-05-work-session)
+1. [2026-10-05 — No building, just researching components that will be included in the PCB](#2026-10-05-no-building-just-researching-components-that-will)
 
 ## Design
 
-### 2026-10-05 — Work session
+### 2026-10-05 — No building, just researching components that will be included in the PCB
 
 **1.3h**
+
+No building, just researching components that will be included in the PCB
+
+![Screenshot 2026-10-05 223426](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Ss7kfo40G9E5Km0lcHvGYTfNWVj4U18a/afbcd702091b177d6beaa2eeaddd7a06703075f5095ce1181b5eb801a0e366fa.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/bef33333-b545-4c9d-a99c-d4b8e65ebcca/video.mp4)
