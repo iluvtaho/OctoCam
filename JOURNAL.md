@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-05 — No building, just researching components that will be included in the PCB](#2026-10-05-no-building-just-researching-components-that-will)
-2. [2026-10-07 — Work session](#2026-10-07-work-session)
+2. [2026-10-07 — Finished the BOM and Research on components. I then moved on to drawing the schematic in KiCad, however the OV3660 and BQ25883 symbol footprints are not available so now I have to design them individu](#2026-10-07-finished-the-bom-and-research-on-components-i-the)
 
 ## Design
 
@@ -29,8 +29,12 @@ No building, just researching components that will be included in the PCB
 
 [Timelapse](https://lookout.hackclub.com/api/media/bef33333-b545-4c9d-a99c-d4b8e65ebcca/video.mp4)
 
-### 2026-10-07 — Work session
+### 2026-10-07 — Finished the BOM and Research on components. I then moved on to drawing the schematic in KiCad, however the OV3660 and BQ25883 symbol footprints are not available so now I have to design them individu
 
 **1.8h**
+
+Finished the BOM and Research on components. I then moved on to drawing the schematic in KiCad, however the OV3660 and BQ25883 symbol footprints are not available so now I have to design them individually ;-;.
+
+![Screenshot 2026-10-07 233405](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Ss7kfo40G9E5Km0lcHvGYTfNWVj4U18a/0b3cb61a71c0d229dd868e98477c265683e07ea58900c30fd9cf74c86ba27c4a.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/bb7d8a70-a4d9-4440-a863-af66c4e539b0/video.mp4)
