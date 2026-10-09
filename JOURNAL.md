@@ -44,4 +44,6 @@ Finished the BOM and Research on components. I then moved on to drawing the sche
 
 **2.23h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/c332e268-243a-4b47-9488-a54614469270/video.mp4)
